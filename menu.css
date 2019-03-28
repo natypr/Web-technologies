@@ -1,0 +1,28 @@
+.menu {
+	background: #222222;
+  	line-height: 2.5;
+  	text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+	margin: 0 20px;
+}
+
+.menu a{
+	color: #dddddd;
+	font-size: 20px;
+	padding: 14px 25px;
+	text-decoration: none;
+}
+
+.menu a:hover  {
+	background-color:#dddddd;
+	color: #b22222;
+	text-decoration: none;
+}
+.current a{
+	background-color:#dddddd;
+	color: #b22222;
+	text-decoration: none;
+}
